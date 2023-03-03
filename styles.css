@@ -1,0 +1,39 @@
+body{
+  font-family: "Montserrat";
+}
+
+/* Title Sections */
+#title{
+  background-color: #0F3D3E;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 0 15%;
+}
+
+.contact-btn{
+
+}
+
+/*Intro Sections*/
+#intro{
+  text-align: center;
+  background: white;
+  padding: 2% 25%;
+}
+
+/*Contact Sections*/
+#contact-section{
+  text-align: left;
+  padding: 7% 15%;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+/*Footer*/
+#footer{
+  text-align: center;
+}
